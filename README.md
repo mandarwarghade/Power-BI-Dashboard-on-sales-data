@@ -1,3 +1,3 @@
 # Power-BI-Dashboard-on-sales-data
 
-![](image.jpg)
+![](1.jpg)
